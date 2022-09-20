@@ -5,3 +5,4 @@ glide.lock
 *.out
 *.log
 *.test
+.DS_Store
