@@ -1,4 +1,4 @@
-# promgrpc [![Build Status](https://travis-ci.org/piotrkowalczuk/promgrpc.svg?branch=master)](https://travis-ci.org/piotrkowalczuk/promgrpc)
+# promgrpc
 
 [![GoDoc](https://godoc.org/github.com/piotrkowalczuk/promgrpc?status.svg)](https://pkg.go.dev/github.com/piotrkowalczuk/promgrpc/v4)
 
